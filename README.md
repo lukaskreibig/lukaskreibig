@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Lukas! 👋 
+# Hi there, I'm Lukas!
 Junior Full-Stack Web Developer
 
 </div>
