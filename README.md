@@ -29,4 +29,4 @@ Junior Full-Stack Web Developer
 
 ---
 
-  ## <div align="center"> 💻 Check Out My Repos ⬇️ </div>
+  ## <div align="center"> 💻 Check Out My pinned Repos ⬇️ </div>
