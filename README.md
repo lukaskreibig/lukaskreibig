@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hi there, I'm Lukas!
-Junior Full-Stack Web Developer
+I'm a Full-Stack Web Developer living in Berlin. If you come here directly, please check out my Portfolio Website first:
+  https://www.lukaskreibig.com/portfolio
 
 </div>
 
