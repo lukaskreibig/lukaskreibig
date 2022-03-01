@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hi there, I'm Lukas!
-I'm a Web & App Developer living in Berlin. If you come here directly, please check out my Portfolio Website first:
+I'm a Web & App Developer living in Berlin. If you come here directly, please check out my Portfolio Website first. 
+You'll find screenshots, videos and detailed descriptions about the projects and my part in it:
   <br>
   https://www.lukaskreibig.com/portfolio
   <p>
