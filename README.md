@@ -11,7 +11,7 @@ I'm a Web & App Developer living in Berlin. If you come here directly, please ch
   
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="React" src="https://img.shields.io/badge/React-3178C6?style=for-the-badge&logo=react&logoColor=black" />
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
