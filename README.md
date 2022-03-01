@@ -5,7 +5,7 @@ I'm a Web & App Developer living in Berlin. If you come here directly, please ch
   <br>
   https://www.lukaskreibig.com/portfolio
   <p>
-Here is my LinkedIn: 
+Connect with me on LinkedIn: 
   https://www.linkedin.com/in/lukas-kreibig/
 </div>
 
