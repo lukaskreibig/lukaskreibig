@@ -22,9 +22,9 @@ I'm a Web & App Developer living in Berlin. If you come here directly, please ch
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-<img alt="SASS" src="https://img.shields.io/badge/Photoshop-FF3366?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-<img alt="SASS" src="https://img.shields.io/badge/InDesign-31A8FF?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" />
-<img alt="SASS" src="https://img.shields.io/badge/Lightroom-FF3366?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF" />
+<img alt="SASS" src="https://img.shields.io/badge/Photoshop-323330?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+<img alt="SASS" src="https://img.shields.io/badge/InDesign-000000?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" />
+<img alt="SASS" src="https://img.shields.io/badge/Lightroom-666666?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF" />
 </p>
   
   
