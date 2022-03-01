@@ -26,11 +26,11 @@ Connect with me on LinkedIn:
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-<img alt="SASS" src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-<img alt="SASS" src="https://img.shields.io/badge/InDesign-000000?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" />
-<img alt="SASS" src="https://img.shields.io/badge/Lightroom-000000?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF" />
+<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+<img alt="InDesign" src="https://img.shields.io/badge/InDesign-000000?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" />
+<img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-000000?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF" />
 </p>
   
   
