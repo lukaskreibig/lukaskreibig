@@ -23,6 +23,11 @@ Connect with me on LinkedIn:
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazonaws&logoColor=white" />
+ <img alt="AWS" src="https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
