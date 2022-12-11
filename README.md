@@ -23,9 +23,9 @@ Connect with me on LinkedIn:
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazonaws&logoColor=white" />
- <img alt="AWS" src="https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazonaws&logoColor=white" />
   
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
 
 
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
