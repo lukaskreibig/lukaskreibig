@@ -3,8 +3,6 @@
 # Hi there, I'm Lukas!
 I'm a Web & App Developer living in Berlin. If you come here directly, i highly recommend to check out my Portfolio Website first. 
 <br>
-You'll find screenshots, videos and detailed descriptions about the Projects and me:
-  <br>
   www.lukaskreibig.dev
   <p>
 Connect with me on LinkedIn: 
