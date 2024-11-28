@@ -43,7 +43,7 @@ Connect with me on LinkedIn:
 ---
 <div align="center">
 
-![Lukas Kreibigs status](https://github-readme-stats.vercel.app/api?username=lukaskreibig&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskreibig&langs_count=6&hide=html&theme=dark&layout=compact)](https://github.com/LukasKreibig/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskreibig&langs_count=6&hide=html&theme=dark&layout=compact)](https://github.com/LukasKreibig/github-readme-stats)
 
 </div>
 ---
