@@ -32,7 +32,9 @@ I design editorial‑quality, data‑driven interfaces, combining **Typescript/R
 
 **Stack**: Next.js (React 19), GSAP, D3, Recharts, Mapbox GL, Tailwind · FastAPI, Pydantic, SQLAlchemy, Pandas · Vercel/Railway · GitHub Actions.
 
-→ Live: **[https://arctic.rip](https://arctic.rip)**  ·  Docs: `docs/ARCHITECTURE.md`, `docs/DATA_PIPELINE.md`, `docs/OPERATIONS.md`
+→ Live: **[https://arctic.rip](https://arctic.rip)**
+
+→ Repo: **[https://github.com/lukaskreibig/climate-dashboard](https://github.com/lukaskreibig/climate-dashboard)**
 
 ---
 
@@ -47,7 +49,7 @@ I design editorial‑quality, data‑driven interfaces, combining **Typescript/R
 
 **Stack**: Python, PyTorch, NumPy, Pandas, odc‑stac, Rasterio, Typer, Docker.
 
-→ Repo: `lukaskreibig/uummannaq-ice-from-space`
+→ Repo: **[https://github.com/lukaskreibig/uummannaq-ice-from-space](https://github.com/lukaskreibig/uummannaq-ice-from-space)**
 
 ---
 
@@ -57,7 +59,9 @@ I design editorial‑quality, data‑driven interfaces, combining **Typescript/R
 
 **Stack**: React, TypeScript, Material UI, Mapbox GL, Plotly, Jest/RTL, Playwright, GitHub Actions.
 
-→ Live: **[https://maptheair.com](https://maptheair.com)**  ·  Repo: `lukaskreibig/airpollution`
+→ Live: **[https://maptheair.com](https://github.com/lukaskreibig/airpollution)**
+
+→ Repo: **[https://github.com/lukaskreibig/airpollution](https://github.com/lukaskreibig/airpollution)**
 
 ---
 
