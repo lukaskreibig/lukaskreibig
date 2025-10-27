@@ -110,4 +110,4 @@ I design editorial‑quality, data‑driven interfaces, combining **Typescript/R
 * **Freelance**: newsroom interactives, NGO explainers, climate dashboards, satellite‑data pipelines, frontend modernization.
 * **Full‑time**: Senior/Staff Frontend, Data Visualization Engineer, or similar, with room to ship narrative products.
 
-📬 **Reach me**: [lukas.kreibig@posteo.de](mailto:lukas.kreibig@posteo.de) · **Portfolio**: [lukaskreibig.dev](https://www.lukaskreibig.dev)
+**Reach me**: [lukas.kreibig@posteo.de](mailto:lukas.kreibig@posteo.de) · **Portfolio**: [lukaskreibig.dev](https://www.lukaskreibig.dev)
