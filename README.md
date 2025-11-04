@@ -1,6 +1,6 @@
 # Hi, I’m **Lukas Kreibig**
 
-**Senior Frontend Engineer · Data Visualization & Scrollytelling · Applied ML/AI**
+**Senior Fullstack Engineer · Data Visualization & Scrollytelling · Applied ML/AI**
 
 I design editorial‑quality, data‑driven interfaces, combining **Typescript/React/Next.js**, **GSAP/D3/Mapbox**, and **Python/FastAPI** or **Node.js** pipelines. My work spans interactive climate stories, satellite‑imagery processing, and real‑time dashboards.
 
