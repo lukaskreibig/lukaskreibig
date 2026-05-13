@@ -1,113 +1,126 @@
-# Hi, I’m **Lukas Kreibig**
+# Lukas Kreibig
 
-**Senior Fullstack Engineer · Data Visualization & Scrollytelling · Applied ML/AI**
+**Technical Product Partner / Senior Fullstack Engineer**
 
-I design editorial‑quality, data‑driven interfaces, combining **Typescript/React/Next.js**, **GSAP/D3/Mapbox**, and **Python/FastAPI** or **Node.js** pipelines. My work spans interactive climate stories, satellite‑imagery processing, and real‑time dashboards.
+I help startups and product teams turn product ideas, data and APIs into shipped web applications.
 
-> **Open to**: freelance projects (EU/remote) · collaborations with newsrooms, NGOs & product teams · future full‑time roles.
+My public repositories show the code side of that work: React/Next.js frontends, TypeScript component systems, maps and data visualizations, Python/FastAPI backends, data pipelines, testing workflows and documentation.
 
-[Website](https://www.lukaskreibig.dev) · [Portfolio Highlights](#featured-projects) · [Email](mailto:lukas.kreibig@posteo.de)
-
----
-
-## What I’m great at
-
-* **Frontend architecture**: Typesafe React/Next.js apps with component systems, DX tooling, testing, and CI/CD.
-* **Scrollytelling & narrative UX**: GSAP choreographed scenes, performant media preloading, and chart orchestration that reads like a story.
-* **Data plumbing**: Python pipelines (Pandas/Dask) that normalize public datasets and feed APIs/clients with reproducible outputs.
-* **Applied ML/CV**: Lightweight models (e.g., UNet MobilenetV2) for cloud masking & classification in satellite workflows.
-* **Maps & viz**: Mapbox GL, D3, Recharts, Plotly: clear visuals grounded in domain context and accessibility.
+[Portfolio](https://www.lukaskreibig.dev) · [Email](mailto:lukas.kreibig@posteo.de)
 
 ---
 
-## Featured projects
+## What I focus on
 
-### 1) Arctic Climate Story — *arctic.rip*
-
-**An immersive, data‑driven story about Arctic change.**
-
-* High‑resolution **Sentinel‑2** overlays, interactive charts, and bilingual copy (DE/EN).
-* **Scroll orchestration** keeps charts and captions in rhythm; a **Mapbox preloader** warms viewpoints and imagery before you arrive.
-* A typed **FastAPI** backend serves daily refreshed NASA/NOAA/OWID aggregates; pipelines run on Railway with JSON fallbacks.
-
-**Stack**: Next.js (React 19), GSAP, D3, Recharts, Mapbox GL, Tailwind · FastAPI, Pydantic, SQLAlchemy, Pandas · Vercel/Railway · GitHub Actions.
-
-→ Live: **[https://arctic.rip](https://arctic.rip)**
-
-→ Repo: **[https://github.com/lukaskreibig/climate-dashboard](https://github.com/lukaskreibig/climate-dashboard)**
+- **Product-ready frontends** — React, Next.js, TypeScript, component systems, UX-focused implementation
+- **Data products & visual interfaces** — dashboards, maps, charts, data stories and geospatial UI
+- **Backend & API integration** — Python/FastAPI, Node.js, REST/GraphQL, typed contracts and API serving layers
+- **Delivery quality** — testing, CI/CD, documentation, handover and maintainable project structure
+- **Product thinking** — translating unclear product/data/API contexts into usable shipped interfaces
 
 ---
 
-### 2) Uummannaq Ice From Space — *Sentinel‑2 processing pipeline*
+## Selected public repositories
 
-**Production‑ready Python package + CLI (`uummannaq-ice`)** that discovers STAC items, streams tiles via **odc‑stac**, runs a **MobilenetV2 UNet** for cloud masking, applies rule‑based ice classification, and exports **CSV stats + quicklook overlays**.
+### [Arctic Climate Story](https://github.com/lukaskreibig/climate-dashboard)
+
+Interactive climate data story combining maps, charts, scroll-driven interaction, satellite data and backend/data workflows.
 
 **Highlights**
+- Next.js / React frontend with scrollytelling, charts and map interactions
+- FastAPI backend for aggregated climate data
+- Data pipelines for NASA/NOAA/OWID datasets
+- Documentation for architecture, operations and data workflows
 
-* YAML‑driven configs with inheritance; CPU & CUDA Docker images.
-* **Ruff + mypy + pytest** in CI; fixtures for deterministic tests; manifest JSON for orchestration (cron/Airflow/etc.).
-
-**Stack**: Python, PyTorch, NumPy, Pandas, odc‑stac, Rasterio, Typer, Docker.
-
-→ Repo: **[https://github.com/lukaskreibig/uummannaq-ice-from-space](https://github.com/lukaskreibig/uummannaq-ice-from-space)**
-
----
-
-### 3) Map The Air — *maptheair.com*
-
-**Interactive air‑quality explorer** with Mapbox visuals, Plotly charts, and WHO‑style thresholds. Integrates the **OpenAQ** API, plus E2E tests.
-
-**Stack**: React, TypeScript, Material UI, Mapbox GL, Plotly, Jest/RTL, Playwright, GitHub Actions.
-
-→ Live: **[https://maptheair.com](https://github.com/lukaskreibig/airpollution)**
-
-→ Repo: **[https://github.com/lukaskreibig/airpollution](https://github.com/lukaskreibig/airpollution)**
+**Stack:** Next.js, React, TypeScript, GSAP, D3, Recharts, Mapbox, FastAPI, Python, Pandas, Vercel, Railway, GitHub Actions
 
 ---
 
-## Experience snapshot
+### [Map The Air](https://github.com/lukaskreibig/airpollution)
 
-* **Senior Frontend Developer — SystemsLab21** *(Apr 2024 – Jan 2025, Berlin)*
+Air-quality data product that turns distributed sensor data into an interactive map and chart interface.
 
-  * Led Platform 21 frontend; introduced CI/CD improvements and testing discipline; shipped UI/UX features that lifted usability.
-* **Freelance — Full‑stack, Data Vis & AI** *(Jun 2023 – present, Berlin)*
+**Highlights**
+- Mapbox-based air-quality exploration
+- PM2.5 / PM10 views with threshold-based visual feedback
+- OpenAQ API integration
+- E2E and component testing setup
 
-  * Built **The Big Melt** (AI‑driven interactive) and **Map The Air**; delivered highly interactive web apps across industries.
-* **Frontend Developer — Floorwell** *(May 2022 – Jun 2023, Berlin)*
-
-  * Modernized the CRM with React + TypeScript; designed a reusable component library; rolled out Redux/Zustand state patterns.
-* **Frontend Developer — DI‑ON.Solutions** *(Sep 2021 – May 2022, Berlin)*
-
-  * React Native for cross‑platform apps; integrated GraphQL + AWS; sprint‑based delivery.
+**Stack:** React, TypeScript, Material UI, Mapbox GL, Plotly, OpenAQ API, Jest, React Testing Library, Playwright, GitHub Actions
 
 ---
 
-## Toolbox
+### [Uummannaq Ice From Space](https://github.com/lukaskreibig/uummannaq-ice-from-space)
 
-**Frontend**: TypeScript, React/Next.js, Vite, Tailwind, Material UI, Mantine, GSAP, D3, Recharts, Plotly, Mapbox GL.
+Python pipeline and CLI for Sentinel-2 satellite imagery processing around Uummannaq Fjord, Greenland.
 
-**Data/ML**: Python, Pandas, NumPy, Scikit‑learn, PyTorch, TensorFlow, Jupyter.
+**Highlights**
+- STAC discovery and tile loading
+- MobilenetV2 UNet cloud masking
+- Rule-based ice / water / land classification
+- CSV statistics, quicklook overlays, Docker setup and testable pipeline structure
 
-**Backend**: FastAPI, Node/Express, GraphQL, gRPC, SQL (Postgres), Supabase.
+**Stack:** Python, PyTorch, Pandas, NumPy, Rasterio, odc-stac, Typer, Docker, Ruff, mypy, pytest
 
-**Testing**: Jest, React Testing Library, Vitest, Playwright, Pytest, mypy, Ruff.
+---
 
-**DevOps**: GitHub Actions, Vercel, Railway, Docker, CI/CD, monitoring (Sentry, logs).
+### [Train Graph / Bildfahrplan](https://github.com/lukaskreibig/trainchartschedule)
+
+Interactive train schedule visualization for complex rail/transit timetable data.
+
+**Highlights**
+- D3-based train graph visualization
+- GTFS-based data processing
+- Interactive filters and schedule exploration
+- Modern frontend and database-backed architecture
+
+**Stack:** Next.js, React, TypeScript, D3.js, Material UI, Drizzle ORM, PostgreSQL, Supabase
+
+---
+
+### [Word Frequency Explorer](https://github.com/lukaskreibig/WordFrequencyExplorer)
+
+Real-time word-frequency explorer with a microservice backend and WebSocket-based updates.
+
+**Highlights**
+- React frontend
+- Node/Express backend services
+- Redis-backed word-frequency data
+- WebSocket communication
+- Docker Compose development environment
+
+**Stack:** React, TypeScript, Node.js, Express, Redis, WebSockets, Docker Compose
+
+---
+
+## Client and product case studies
+
+Some of my strongest product work is client work where the code is private. I document selected case studies with product context, screenshots, tech stacks and shipped outcomes on my portfolio:
+
+[www.lukaskreibig.dev](https://www.lukaskreibig.dev)
+
+Selected case studies include:
+
+- **blocks.cloud** — B2B FinOps SaaS, onboarding, dashboards, billing, API/BFF integrations
+- **Floorwell OS** — CRM and operations platform, data-heavy workflows and frontend modernization
+- **Map the Air** — air-quality data product with maps, charts and API aggregation
+- **Arctic Data Story** — interactive climate data experience with maps, satellite data and RAG layer
 
 ---
 
 ## How I work
 
-* **Type‑safe by default**: shared contracts between frontend/backends.
-* **Quality gates**: lint → unit tests → E2E smoke checks for narrative layout (e.g., scroll‑rail gutters).
-* **Performance & UX**: prefetching, image/tiles warm‑up, accessibility‑minded motion and contrast.
-* **Docs or it didn’t happen**: every repo ships with architecture notes, ops runbooks, and onboarding guides.
+- Product context before implementation
+- Type-safe interfaces between frontend, backend and data workflows
+- Clear component and state architecture
+- UX and performance as engineering concerns
+- Testing and CI/CD as delivery guardrails
+- Documentation and handover so teams can continue confidently
 
 ---
 
-## Let’s build something
+## Open to
 
-* **Freelance**: newsroom interactives, NGO explainers, climate dashboards, satellite‑data pipelines, frontend modernization.
-* **Full‑time**: Senior/Staff Frontend, Data Visualization Engineer, or similar, with room to ship narrative products.
+Remote freelance projects, startup collaborations and selected senior frontend / fullstack / product engineering roles.
 
-**Reach me**: [lukas.kreibig@posteo.de](mailto:lukas.kreibig@posteo.de) · **Portfolio**: [lukaskreibig.dev](https://www.lukaskreibig.dev)
+Best fit: MVPs, internal tools, data products, dashboards, maps, onboarding flows and visual web applications.
